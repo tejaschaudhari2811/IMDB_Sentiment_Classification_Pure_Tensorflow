@@ -1,0 +1,2 @@
+# IMDB_Sentiment_Classification_Pure_Tensorflow
+Sentiment Classification using LSTM and BiLSTMs in Tensorflow
